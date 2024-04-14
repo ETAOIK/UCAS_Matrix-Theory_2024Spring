@@ -8,4 +8,4 @@ by 中国科学院数学科学学院 韩丛英教授
 | :----------------------------------------------------------------------------------------------| ----------------| 
 | Review of linear algebra                                                                       | HW-1, HW-2, HW-3| 
 | Norm Theory of Matrix and Its Applications                                                     | HW-4            | 
-| Matrix Analysis                                                                                | HW-5            | 
+| Matrix Analysis and Its Applications                                                           | HW-5            | 
