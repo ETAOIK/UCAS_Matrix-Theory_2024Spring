@@ -10,3 +10,4 @@ by 中国科学院数学科学学院 韩丛英教授
 | Norm Theory of Matrix and Its Applications                                                     | HW-4            | 
 | Matrix Analysis and Its Applications                                                           | HW-5            | 
 | Matrix Decompositions (include coding application)                                             | HW-6, HW-7      | 
+| Eigenvalue estimation (Gerschgorin circle theorem, Ostrowski theorem and corollaries, etc.)    | HW-8            | 
