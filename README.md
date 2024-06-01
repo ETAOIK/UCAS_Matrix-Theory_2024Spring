@@ -1,5 +1,4 @@
 # UCAS_Matrix-Theory_2024Spring
-Homework for UCAS Matrix Theory 2024-Spring course
 
 国科大2024春季学期矩阵论作业题 
 
@@ -11,3 +10,4 @@ by 中国科学院数学科学学院 韩丛英教授
 | Matrix Analysis and Its Applications                                                           | HW-5            | 
 | Matrix Decompositions (include coding application)                                             | HW-6, HW-7      | 
 | Eigenvalue estimation (Gerschgorin circle theorem, Ostrowski theorem and corollaries, etc.)    | HW-8            | 
+| Pseudoinverse (Moore-Penrose inverse, projection operator)                                     | HW-9            | 
